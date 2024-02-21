@@ -2,7 +2,7 @@
 ![Project Maintenance][maintenance-shield]
 [![BuyMeCoffee][buymecoffeebadge]][buymecoffee]
 
-_Example Component providing fresh jokes every minute._
+_Example Component providing fresh jokes every 30 minutes._
 
 **This component will set up the following platforms.**
 
